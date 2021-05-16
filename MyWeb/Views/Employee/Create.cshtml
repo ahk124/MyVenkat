@@ -1,0 +1,23 @@
+@model EmployeeCreateViewModel
+@{
+    ViewData["Title"] = "Create";
+}
+
+<form asp-controller="Employee" asp-action="Create" method="post">
+  <div class="form-group">
+    <label asp-for="Name">Email address</label>
+    <input asp-for="Name" class="form-control" >
+  </div>
+  <div class="form-group">
+    <label asp-for="Email">Email</label>
+    <input asp-for="Email" class="form-control" >
+  </div>
+ <div class="form-group">
+    <label for="exampleFormControlSelect2">Example multiple select</label>
+    <select  class="form-control" asp-for="Department" asp-items="Html.GetEnumSelectList<EmployeeDepEnum>()">
+      <option>Please select</option>
+
+    </select>
+  </div>
+  <button type="submit" class="btn btn-primary">Submit</button>
+</form>
