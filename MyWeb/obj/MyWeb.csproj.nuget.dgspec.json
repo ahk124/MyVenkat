@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Work\\Learn\\Learn Web Site\\DotNetCore\\Practice\\Venkat\\MyWeb\\MyWeb.csproj": {}
+    "F:\\Learn Programing\\Learn Web Site\\DotNetCore\\Practice\\MyVenkat\\MyWeb\\MyWeb.csproj": {}
   },
   "projects": {
-    "F:\\Work\\Learn\\Learn Web Site\\DotNetCore\\Practice\\Venkat\\MyWeb\\MyWeb.csproj": {
+    "F:\\Learn Programing\\Learn Web Site\\DotNetCore\\Practice\\MyVenkat\\MyWeb\\MyWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Work\\Learn\\Learn Web Site\\DotNetCore\\Practice\\Venkat\\MyWeb\\MyWeb.csproj",
+        "projectUniqueName": "F:\\Learn Programing\\Learn Web Site\\DotNetCore\\Practice\\MyVenkat\\MyWeb\\MyWeb.csproj",
         "projectName": "MyWeb",
-        "projectPath": "F:\\Work\\Learn\\Learn Web Site\\DotNetCore\\Practice\\Venkat\\MyWeb\\MyWeb.csproj",
-        "packagesPath": "C:\\Users\\ahk02\\.nuget\\packages\\",
-        "outputPath": "F:\\Work\\Learn\\Learn Web Site\\DotNetCore\\Practice\\Venkat\\MyWeb\\obj\\",
+        "projectPath": "F:\\Learn Programing\\Learn Web Site\\DotNetCore\\Practice\\MyVenkat\\MyWeb\\MyWeb.csproj",
+        "packagesPath": "C:\\Users\\AmirLp\\.nuget\\packages\\",
+        "outputPath": "F:\\Learn Programing\\Learn Web Site\\DotNetCore\\Practice\\MyVenkat\\MyWeb\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\ahk02\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\AmirLp\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
